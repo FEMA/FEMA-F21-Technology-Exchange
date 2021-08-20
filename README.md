@@ -19,4 +19,4 @@ When considering non-code files for your repositories, we prefer open, text-base
 - Jupyter notebooks
 - BPMN diagrams
 
-We encourage you to read this project's [Code of Conduct](CODE_OF_CONDUCT).
+We encourage you to read this project's [Code of Conduct](CODE_OF_CONDUCT.md).
